@@ -3,7 +3,7 @@ class File2:
     return 'one'
 
   def function2():
-    return 'two'
+    return 'twotwo'
 
   def function3():
     return 'three'
