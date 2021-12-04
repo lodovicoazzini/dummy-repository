@@ -7,3 +7,6 @@ class File2:
 
   def function3():
     return 'three'
+
+  def function4():
+    return 'four'
