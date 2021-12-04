@@ -4,3 +4,6 @@ class File1:
 
   def function2():
     return 2
+
+  def function3():
+    return 3
